@@ -1,4 +1,5 @@
 
+
 public class Gebaeude
 {
     protected double hoehe;
@@ -18,6 +19,8 @@ public class Gebaeude
     
     public int anzahlBesucher() {
         return besucher;
+
     }
     
 }
+
