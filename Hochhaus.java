@@ -11,7 +11,6 @@ public class Hochhaus extends Haus
     public int anzahlBesucher() {
         return stockwerke * besucher;
     }
-    //test
-    //test2
-	//test3
+    
+    
 }
