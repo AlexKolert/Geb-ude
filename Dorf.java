@@ -2,7 +2,7 @@
 /**
  * Beschreiben Sie hier die Klasse Dorf.
  * 
- * @author Leon
+ * @author Alex
  * @version 1.0
  */
 public class Dorf
